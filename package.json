@@ -1,11 +1,10 @@
 {
-  "name": "wbpck",
+  "name": "simpleBundler",
   "version": "1.0.0",
-  "description": "A Little Toy Javascript Module Bundler",
+  "description": "A SimpleJavascript Module Bundler",
   "main": "index.js",
-  "repository": "git@github.com:adamisntdead/windy.git",
-  "author": "Adam Kelly <adamkelly2201@gmail.com>",
-  "license": "MIT",
+  "repository": "git@github.com:yangchendoit/simpleBundler.git",
+  "author": "yangchendoit",
   "private": false,
   "dependencies": {
     "detective": "^5.1.0",
