@@ -1,0 +1,6 @@
+{
+  "id": 0,
+  "filepath": "D:\\workspace\\own\\wbpck-bundler/test/app.js",
+  "source": "const log = require('./log')\r\nconst util = require('./utils')\r\n\r\nlog(util.sayHello('Tom'))\r\n",
+  "requires": ["./log", "./utils"]
+}
